@@ -1,0 +1,25 @@
+body {font-family: 'Alegreya', serif;
+	text-shadow: 4px 4px 4px #aaa;
+    
+   color: white;
+   
+}
+
+
+
+div {font-size: 70px;
+	color: white;
+}
+
+img {border: 2px;
+	max-width: 80%;
+}
+
+
+
+.egyedispanclass:hover {
+    color: #849A84;
+  cursor: pointer;
+}
+
+#egyedispanid{}
